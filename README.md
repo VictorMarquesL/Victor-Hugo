@@ -6,7 +6,7 @@
 
 🚀 Sobre mim
 
-Sou estudante de tecnologia com foco em computação em nuvem (AWS), dados e automação. Tenho facilidade de aprendizado, gosto de trabalhar em equipe e busco evoluir continuamente minhas habilidades técnicas, especialmente em ambientes cloud, BI e infraestrutura.
+Sou estudante de tecnologia com foco em computação em nuvem (AWS), dados e automação. tenho facilidade de aprendizado, gosto de trabalhar em equipe e busco evoluir continuamente minhas habilidades técnicas, especialmente em ambientes cloud, BI e infraestrutura.
 
 🛠️ Tecnologias & Ferramentas
 
