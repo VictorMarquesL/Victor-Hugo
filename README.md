@@ -1,51 +1,51 @@
-Victor Hugo Marques Linhares
+👋 Olá, eu sou o Victor Hugo
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas | Foco em Computação em Nuvem e DevOps
+🎓 Estudante de Análise e Desenvolvimento de Sistemas
+☁️ Interesse em Cloud Computing, Dados e Business Intelligence (BI)
+📍 Brasília/DF
 
-Sou estudante do 2º semestre de Análise e Desenvolvimento de Sistemas no Centro Universitário UDF (Brasília/DF), com previsão de conclusão em janeiro de 2027. Tenho interesse em computação em nuvem, infraestrutura e automação de processos, buscando continuamente aprimorar minhas habilidades e aplicá-las em contextos práticos e desafiadores.
+🚀 Sobre mim
 
-Destaco-me pela proatividade, adaptabilidade e capacidade de aprendizado rápido, além de valorizar o trabalho em equipe e a colaboração em ambientes tecnológicos.
+Sou estudante de tecnologia com foco em computação em nuvem (AWS), dados e automação. Tenho facilidade de aprendizado, gosto de trabalhar em equipe e busco evoluir continuamente minhas habilidades técnicas, especialmente em ambientes cloud, BI e infraestrutura.
 
-📚 Formação Acadêmica
+🛠️ Tecnologias & Ferramentas
 
-Centro Universitário UDF – Brasília/DF
-Tecnólogo em Análise e Desenvolvimento de Sistemas
-Previsão de conclusão: janeiro/2027
+Sistemas Operacionais: Windows | Linux
 
-💻 Habilidades Técnicas
+Cloud: AWS (básico/intermediário)
 
-Sistemas Operacionais: Windows e Linux
+Banco de Dados: Noções de bancos relacionais e modelagem de dados
 
-Computação em Nuvem: AWS (nível básico/intermediário)
+Business Intelligence: Noções de Power BI e conceitos de BI
 
-Versionamento: GitHub e GitLab
+Versionamento: Git | GitHub | GitLab
 
-Orquestração de Contêineres: Noções de Kubernetes
+Containers: Noções de Kubernetes
 
-Outros: Microsoft Office, montagem e configuração de computadores e softwares
+Outros: Pacote Office (Word, Excel)
 
-🧩 Competências Comportamentais
+💡 Competências
+
+Proatividade e organização
+
+Boa comunicação
 
 Trabalho em equipe
 
-Adaptabilidade
-
-Proatividade
-
 Aprendizado rápido
 
-🌍 Idiomas
+Atenção aos detalhes
 
-Português: Nativo
+🌎 Idiomas
 
-Inglês: Intermediário
+🇧🇷 Português — Nativo
 
-Espanhol: Intermediário
+🇺🇸 Inglês — Intermediário
+
+🇪🇸 Espanhol — Intermediário
 
 📫 Contato
 
+📧 Email: victorhugomarques66@gmail.com
+
 💼 LinkedIn: https://www.linkedin.com/in/victor-hugo-861774211/
-
-📧 E-mail: victorhugomarques66@gmail.com
-
-🔹 Aberto a oportunidades para aplicar e expandir conhecimentos em computação em nuvem, DevOps e suporte técnico, contribuindo para projetos inovadores e eficientes.
